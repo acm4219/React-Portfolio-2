@@ -1,0 +1,23 @@
+.footer {
+  position: relative;
+  color: white;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  min-height: 50px;
+  background: #547980;
+  text-align: center;
+}
+
+.footer-contact {
+  position: absolute;
+  color: white;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  min-height: 50px;
+  background: #547980;
+  text-align: center;
+}
