@@ -31,7 +31,7 @@ function ProjectCard(){
                     <h5 className="card-title pl-2 pt-2">Dad Jokes!</h5>
                     <hr/>
                 
-                    <img className="w-75 p-3 h-75 d-inline-block ml-3" src={process.env.PUBLIC_URL + "/photoAssets/dadjokes1.JPG"} alt="Dadjokes1" />
+                    <img className="w-75 p-3 h-75 d-inline-block ml-3" src={process.env.PUBLIC_URL + "/photoAssets/dadJokes1.JPG"} alt="Dadjokes1" />
                    
                     <div className="card-body">
                         <h6 className="card-text p-3">Do you ever feel that there aren't enough dad jokes in the world? Do you want to do your part to get more out there for people to see? Then the Dad Jokes! site is perfect for you. Add, rate and view other people's jokes with our intuitive bar of jokes. When you're done you can simply log out and come back later to see if the ratings have changed on your joke. You can become the Dadliest Dad out there with Dad Jokes!</h6>
