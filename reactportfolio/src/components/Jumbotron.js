@@ -11,7 +11,7 @@ function Jumbotron(){
                 <hr />
                 <div className="row">
                     <div className="col d-flex justify-content-center">
-                    <Link className="btn btn-primary btn-lg" to="/home">Check it out!</Link>
+                    <Link className="btn btn-primary btn-lg" to="/React-Portfolio-2/home">Check it out!</Link>
                     </div>
                 </div>
             </div>
