@@ -6,7 +6,7 @@ function Jumbotron(){
         return(
         <div>
             <div className="container">
-            <div className="jumbotron jumbotron-center">
+            <div className="jumbotron jumbotron-center" >
                 <h1 className="display-4">Alexander McDonald Portfolio</h1>
                 <hr />
                 <div className="row">
