@@ -17,13 +17,13 @@ function App() {
        <Header />
        <div>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/React-Portfolio-2/">
             <EntryPage />
           </Route>
-          <Route path="/home">
+          <Route path="/React-Portfolio-2/home">
             <Home />
           </Route>
-          <Route path="/contact">
+          <Route path="/React-Portfolio-2/contact">
             <Contact />
           </Route>
         </Switch>
