@@ -7,9 +7,7 @@ function Contact() {
     return(
         <div>
             <ContactInfo />
-            <footer className="footer-contact">
-            &copy; Portfolio Version 3.0 Copyright 2020 
-            </footer>
+            <br/>
         </div>
     )
 

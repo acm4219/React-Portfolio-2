@@ -5,7 +5,9 @@ import "../styles/jumbotron.css"
 function Jumbotron(){
         return(
         <div>
+            
             <div className="container">
+            <img src={process.env.PUBLIC_URL + "/codingstock.JPG"} alt="entrypic" style={{width:"100%", height:"93.8vh"}}/>
             <div className="jumbotron jumbotron-center" >
                 <h1 className="display-4">Alexander McDonald Portfolio</h1>
                 <hr />

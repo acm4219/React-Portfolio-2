@@ -11,7 +11,6 @@ function Home() {
     return(
         <div style={style.background}>
             <ProjectCard />
-            <Footer />
         </div>
     )
 
